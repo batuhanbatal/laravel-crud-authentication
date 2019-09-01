@@ -9,7 +9,7 @@ git clone https://github.com/batuhanbatal/laravel-crud-authentication.git
 composer update
 `
 
-Copy .env.example file rename to .env
+Copy **.env.example** file rename to **.env**
 
 ### Project key generate
 `
