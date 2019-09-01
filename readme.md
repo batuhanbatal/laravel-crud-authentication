@@ -1,5 +1,4 @@
 ## Laravel-Crud-Authentication
-### Images
 ![Alt text](https://user-images.githubusercontent.com/20479629/64078789-c79d5780-cce7-11e9-8f15-84c00942cafd.gif)
 ### Project install
 `
